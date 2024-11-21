@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime files
+*.pid
+*.pid.lock
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
